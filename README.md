@@ -1,8 +1,8 @@
 ## Passo a passo
 
-- O código que você compartilhou é destinado a ser usado com a plataforma Arduino e é escrito em C++ para ser executado em um Arduino compatível. Para carregar esse código em um dispositivo Arduino, você precisará do Arduino IDE ou de um ambiente de desenvolvimento Arduino compatível.
+O código que você compartilhou é destinado a ser usado com a plataforma Arduino e é escrito em C++ para ser executado em um Arduino compatível. Para carregar esse código em um dispositivo Arduino, você precisará do Arduino IDE ou de um ambiente de desenvolvimento Arduino compatível.
 
-- Se você estiver usando o Arduino IDE, siga estas etapas:
+Se você estiver usando o Arduino IDE, siga estas etapas:
 
 - 1 Abra o Arduino IDE.
 - 2 Copie e cole o código C++ fornecido em uma nova janela do Arduino IDE.

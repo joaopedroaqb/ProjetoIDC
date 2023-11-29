@@ -1,6 +1,6 @@
-const {SeriaPort} = requerie('serialport');
-const arduino = new SerialPort({path:'COM1'})
+const { SerialPort } = require('serialport');
+const arduino = new SerialPort({ path: 'COM1' });
 
 function controlarLED(estado) {
-    $.get('/?LED=' + estado);
+    arduino.write(estado); 
 }
